@@ -1,7 +1,6 @@
 # E-commerce-Sales-Performance-Analysis
 
-### 🛍️ E-commerce Sales Performance Analysis : 
-This project involves a comprehensive data analysis of a large-scale UK e-commerce dataset to identify key sales trends, perform customer segmentation, and provide actionable recommendations for optimizing inventory and improving revenue.
+## This project involves a comprehensive data analysis of a large-scale UK e-commerce dataset to identify key sales trends, perform customer segmentation, and provide actionable recommendations for optimizing inventory and improving revenue.
 
 ### 🎯 Project Goal
 * The primary goal of this analysis was to transform raw transactional data into strategic insights by:
