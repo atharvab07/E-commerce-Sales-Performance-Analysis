@@ -7,9 +7,11 @@
 * Identifying high-performing products and calculating key metrics like Average Order Value (AOV).
 * Generating data-driven recommendations for inventory management and revenue growth.
 
-### 💻 Technologies and Methodologies : This project was built using the following tools and analytical techniques : Category Tools & Libraries Methodology Programming Python RFM Segmentation Libraries Pandas, NumPy, Matplotlib, Seaborn Trend Analysis (Time & Geography)Analysis Statistical Analysis Data Cleaning and Validation
+### 💻 Technologies and Methodologies : 
+This project was built using the following tools and analytical techniques : Category Tools & Libraries Methodology Programming Python RFM Segmentation Libraries Pandas, NumPy, Matplotlib, Seaborn Trend Analysis (Time & Geography)Analysis Statistical Analysis Data Cleaning and Validation.
 
-### 🛍️ E-commerce Sales Performance Analysis : This project involves a comprehensive data analysis of a large-scale UK e-commerce dataset to identify key sales trends, perform customer segmentation, and provide actionable recommendations for optimizing inventory and improving revenue.
+### 🛍️ E-commerce Sales Performance Analysis : 
+This project involves a comprehensive data analysis of a large-scale UK e-commerce dataset to identify key sales trends, perform customer segmentation, and provide actionable recommendations for optimizing inventory and improving revenue.
 
 ### 📊 Key Analysis and Results : 
 * The analysis focused on extracting measurable outcomes and insights : Data Cleaning & Validation: Successfully processed a large-scale e-commerce dataset, handling missing values, inconsistencies, and outliers.
